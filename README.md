@@ -52,3 +52,8 @@
 
 입력란이 공백일 경우 Add 버튼을 눌러도 추가되지 않습니다.
 완료된 일정 항목을 다시 클릭하면 완료 상태가 해제됩니다.
+
+
+## 참조
+
+https://codingartistweb.com/2021/02/simple-to-do-list-javscript-javascript-project/
